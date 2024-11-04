@@ -50,6 +50,6 @@ async function fetchAndDisplayImage(prompt) {
         }
     } catch (error) {
         console.error('Error fetching image:', error);
-        imageContainer.innerHTML = 'An error occurred. Please try again.';
+        imageContainer.innerHTML = 'API key not found. ';
     }
 }
