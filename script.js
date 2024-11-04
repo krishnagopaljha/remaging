@@ -1,4 +1,4 @@
-const nonce = '45356442-50710117280c3006367ac6b79';
+const nonce = 'YOUR-API-KEY';
 let lastImageIndex = -1;
 let lastPrompt = '';
 
